@@ -1,4 +1,4 @@
-# michelin-stars
+# michelin-stars-japan
 Michelin Star Guide Japan Scraper
 
 - [Tokyo 2018](https://drive.google.com/open?id=1odUZqpAZ02-E6jaKX_6yDAa6qqxoD7N3&usp=sharing)
