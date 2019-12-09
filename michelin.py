@@ -17,7 +17,7 @@ BASE_URL = OSAKA_URL
 NUM_PAGES = 21
 
 # Choose a file name to write to. Remember to include '.csv' at the end.
-FILE_NAME = 'japan_mich_rest_OSAKA.csv'
+FILE_NAME = 'japan_mich_rest_OSAKA_2019.csv'
 
 FIELD = ['address', 'hours', 'holiday', 'price', 'url', 'tel']
 
