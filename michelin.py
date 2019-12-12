@@ -49,7 +49,7 @@ def _get_rest_info(uri):
 	return parsed_info
 
 def scrape():
-	with open(FILE_NAME, 'w') as f:
+	with open(FILE_NAME, 'w', newline='', encoding='utf-8') as f:
 		w = csv.writer(f)
 		header_written = False
 
